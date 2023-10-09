@@ -40,7 +40,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
     <tr>
         <th>Interface and sidebar</th>
         <th>Input Interface and SideBar</th>
-        <th>Input Interface r</th>
+        <th>prediction and record</th>
         <th>After Prediction trend</th>
     </tr>
     <tr>
