@@ -40,8 +40,8 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
     <tr>
         <th>Interface and sidebar</th>
         <th>Input Interface and SideBar</th>
-        <th>Input Interface and Bar</th>
-        <th>After Prediction</th>
+        <th>Input Interface r</th>
+        <th>After Prediction trend</th>
     </tr>
     <tr>
         <td><img src="./images/image1.png"/></td>
