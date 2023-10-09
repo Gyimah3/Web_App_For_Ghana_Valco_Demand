@@ -47,7 +47,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         <td><img src="./images/image1.png"/></td>
         <td><img src="./images/image2.jpg"/></td>
         <td><img src="./images/image3.jpg"/></td>
-        <td><img src="./images/imagen4.png"/></td>
+        <td><img src="./images/image4.png"/></td>
     </tr>
 </table>
 
