@@ -54,7 +54,9 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
     
   ## Authors:
 [Gyimah Gideon](https://www.linkedin.com/in/gideon-gyimah-08268b243/)  
+
 [ Antwi Augustine](https://wa.link/e7w16w)
+
 [ Damba Eric](https://wa.link/c648pg)
 
    
